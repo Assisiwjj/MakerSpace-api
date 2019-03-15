@@ -1,3 +1,3 @@
 # MakerSpace-api
 
-# Spring  SpringMVC  Mybatis
+# 基于Spring Boot & MyBatis的种子项目
